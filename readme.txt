@@ -6,3 +6,5 @@ Creating a new branch is quick and simple.
 Add a merge.
 This new line code is what i want to commit.
 This new line code is what i do not want to commit.
+Test stash.
+Test No-Fast Forward Mode.
