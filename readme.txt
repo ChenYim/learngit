@@ -8,3 +8,4 @@ This new line code is what i want to commit.
 This new line code is what i do not want to commit.
 Test stash.
 Test No-Fast Forward Mode.
+Use FF mode to merge.
