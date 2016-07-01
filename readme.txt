@@ -10,3 +10,4 @@ Test stash.
 Test No-Fast Forward Mode.
 Use FF mode to merge.
 Use FF mode to merge2.
+Use NO-FF mode to merge2.
