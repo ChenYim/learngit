@@ -5,3 +5,4 @@ Git tracks changes.
 Creating a new branch is quick and simple.
 Add a merge.
 Test stash.
+Test No-Fast Forward Mode.
