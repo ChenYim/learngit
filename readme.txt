@@ -1,2 +1,2 @@
 one code line
-one code line made in master
+one code line made in newBranch
